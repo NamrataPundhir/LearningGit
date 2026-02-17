@@ -1,2 +1,11 @@
 .env
 .fsd
+.node_modules 
+# is file ko bhi hm nhi likhte hain github main
+# jb koi file already git pe hai then i want to remove it then i say this hm gitignore se remove nhi kr skte isme then i use 
+# ---git -rm cached <file name> ye git ignore main chli jaaegi
+# ---git -rm cached -r <folder name> ye git folder ko htane main use hota hai
+.style.css
+
+
+
